@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{couchrest}
+  s.name = %q{dpla-couchrest}
   s.version = `cat VERSION`.strip
   s.license = "Apache License 2.0"
 
@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
     "README.md",
     "THANKS.md"
   ]
-  s.homepage = %q{http://github.com/couchrest/couchrest}
+  s.homepage = %q{http://github.com/dpla/couchrest}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
